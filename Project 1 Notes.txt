@@ -1,0 +1,13 @@
+Batch Learning vs Online Learning
+Batch Learning is when we have data and we train our model on the data while online learning is when our data is constantly changing and new data is being accumulated.
+Online learning is used in scenarios like spam detection.
+
+When we work in large organizations or research centers, we might need to work in VMs, that might require us to create Virtual Environment but usually python is installed in them.
+
+Install jupyter matplotlib numpy pandas scripy scikit-learn packages
+
+We don't necessarily need to install anaconda to install jupyter, we can install it using a command also pip[3] install jupyter
+
+We are using the data from the housing data boston uni ml repository. We need both housing names and housing data from the link.
+
+Press Ctrl +'-' to remove any data from the ms excel sheet.
